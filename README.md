@@ -36,6 +36,12 @@ Bio-systems</a></li>
       
   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(28).pdf" style="text-decoration:none;">Quantum Teleportation and Entanglement: A Hybrid Approach to Optical Quantum Information Processing</a></li>   
   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(29).pdf" style="text-decoration:none;">Quantum Triangulations: Moduli Space, Quantum Computing, Non-Linear Sigma Models and Ricci Flow</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(30).pdf" style="text-decoration:none;">Quantum Algorithms and their Implementation on Quantum Computer Simulators</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(31).pdf" style="text-decoration:none;">Reversible Computing: Fundamentals, Quantum Computing, and Applications</a></li>  
+      
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(32).pdf" style="text-decoration:none;">Toolbox for quantum computing and digital quantum simulation with superconducting qubits</a></li>   
   
   
                 
