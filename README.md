@@ -54,7 +54,24 @@ Bio-systems</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(38).pdf" style="text-decoration:none;">The Quantum World</a></li> 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(39).pdf" style="text-decoration:none;">Entangled World: The Fascination of Quantum Information and Computation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(40).pdf" style="text-decoration:none;">Explorations in Quantum Computing</a></li>  
+      
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(41).pdf" style="text-decoration:none;">Towards Quantum Computing: Solving Satisfiability Problem by Quantum Annealing</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(42).pdf" style="text-decoration:none;">Quantum Computing Devices: Principles, Designs, and Analysis</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(43).pdf" style="text-decoration:none;">Quantum computing: From linear algebra to physical realizations</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(44).pdf" style="text-decoration:none;">A Theory of Computation Based on Quantum Logic</a></li>  
+      
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(45).pdf" style="text-decoration:none;">An Introduction to Quantum Computing Algorithms</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(46).pdf" style="text-decoration:none;">Automatic Quantum Computer Programming: A Genetic Programming</a></li>  
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(47).pdf" style="text-decoration:none;">Toward realizable quantum computers</a></li> 
 
-                
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(48).pdf" style="text-decoration:none;">Quantum Computer Science: An Introduction</a></li>  
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(49).pdf" style="text-decoration:none;">Classical and Quantum Computing: with C++ and Java Simulations</a></li>  
+
 </ul>
