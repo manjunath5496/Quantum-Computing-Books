@@ -43,6 +43,18 @@ Bio-systems</a></li>
       
   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(32).pdf" style="text-decoration:none;">Toolbox for quantum computing and digital quantum simulation with superconducting qubits</a></li>   
   
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(33).pdf" style="text-decoration:none;">Supervised Learning with Quantum Computers</a></li>  
   
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(34).pdf" style="text-decoration:none;">The New Quantum Age: From Bell's Theorem to Quantum Computation and Teleportation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(35).pdf" style="text-decoration:none;">The Physics of Quantum Information</a></li>  
+      
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(36).pdf" style="text-decoration:none;">The Picture Book of Quantum Mechanics</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(37).pdf" style="text-decoration:none;">The Second Quantum Revolution: From Entanglement to Quantum Computing and Other Super-Technologies</a></li>  
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(38).pdf" style="text-decoration:none;">The Quantum World</a></li> 
+
+
+
                 
 </ul>
