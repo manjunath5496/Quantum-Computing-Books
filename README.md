@@ -74,4 +74,28 @@ Bio-systems</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(49).pdf" style="text-decoration:none;">Classical and Quantum Computing: with C++ and Java Simulations</a></li>  
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(50).pdf" style="text-decoration:none;">Introduction to Topological Quantum Computation</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(51).pdf" style="text-decoration:none;">Natural Computing: DNA, Quantum Bits, and the Future of Smart Machines</a></li>  
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(52).pdf" style="text-decoration:none;">Principles of Quantum Computation and Information, Volume I: Basic Concepts</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(53).pdf" style="text-decoration:none;">Programming the Universe: A Quantum Computer Scientist Takes On the Cosmos</a></li>  
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(54).pdf" style="text-decoration:none;">Quantum Algorithms via Linear Algebra: A Primer</a></li>  
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(55).pdf" style="text-decoration:none;">Quantum Computing from the Ground Up</a></li>  
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(56).pdf" style="text-decoration:none;">Quantum Computing without Magic</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(57).pdf" style="text-decoration:none;">Quantum Wells, Wires and Dots: Theoretical and Computational Physics</a></li>  
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/quc(58).pdf" style="text-decoration:none;">Thinking Ahead to a World with Quantum Computers</a></li>  
+
+
+
+
+
+
+
 </ul>
