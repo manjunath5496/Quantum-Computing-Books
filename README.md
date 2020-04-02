@@ -1,8 +1,8 @@
 
 <ul>
-                <li><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/quc(1).pdf" style="text-decoration:none;">Petroleum Engineering Handbook, Volume VII: Indexes and Standards  </a></li>
-                <li><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/quc(2).pdf" style="text-decoration:none;">5000 Oilfield Terms: A Glossary of Petroleum Engineering Terms, Abbreviations and Acronyms</a></li>
-                <li><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/quc(3).pdf" style="text-decoration:none;">Fluid Mechanics for Petroleum Engineers</a></li>
+                <li><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/quc(1).pdf" style="text-decoration:none;">Novel Systems and Methods for Quantum Communication, Quantum Computation, and Quantum Simulation  </a></li>
+                <li><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/quc(2).pdf" style="text-decoration:none;">A First Introduction to Quantum Computing and Information</a></li>
+                <li><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/quc(3).pdf" style="text-decoration:none;">A Short Introduction to Quantum Information and Quantum Computation</a></li>
                 <li><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/quc(4).pdf" style="text-decoration:none;">Petroleum Engineer's Guide to Oil Field Chemicals and Fluids</a></li>
                 <li><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/quc(5).pdf" style="text-decoration:none;">Rules of Thumb for Petroleum Engineers</a></li>
                 <li><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/quc(6).pdf" style="text-decoration:none;">Fundamentals of Petroleum and Petrochemical Engineering</a></li>
